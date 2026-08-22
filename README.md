@@ -131,7 +131,14 @@ and database insertion/retrieval.
 
 ## Screenshots
 
-_(Add screenshots of the Dashboard, Threat Alerts, and Reports pages here.)_
+### Dashboard
+![Security Monitoring Dashboard](dashboard.png)
+
+### Threat Alerts
+![Threat Alerts](threat-alerts.png)
+
+### Reports
+![Security Reports](reports.png)
 
 ## Limitations
 
